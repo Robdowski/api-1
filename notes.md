@@ -1,0 +1,9 @@
+-- Created repo in Github
+-- Clone it
+-- Open in editor
+-- Add .gitignore
+-- npx gitignore node
+-- npm init -y  ...adds a package.json file
+-- EDIT package.json, scripts{"server": "nodemon index.js"}
+-- add nodemon as a development dependency => npm i -D nodemon
+-- add index.js file to root folder with console.log
